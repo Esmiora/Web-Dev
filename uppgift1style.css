@@ -1,0 +1,48 @@
+/*This is a style sheet for an assignment.*/
+
+
+html {
+  background-color: lightslategrey;
+}
+
+body {
+  background-color: azure;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: purple;
+  text-align: center; }
+
+div {
+  border-style: solid;
+  border-color: purple;
+  border-width: 1px;
+  border-radius: 5px;
+}
+
+#billy {
+  color: darkred;
+}
+
+#bob {
+  color: darkgreen;
+}
+
+#bob a {
+  text-decoration: line-through;
+}
+
+#bob .two a {
+  text-decoration: underline;
+  text-decoration: overline;
+  color: orange;
+}
+
+.two {
+  font-size: 30px;
+}
+
+.three {
+  font-size: 20px;
+}
